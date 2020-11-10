@@ -1,0 +1,236 @@
+fileFormatVersion: 2
+guid: 98b194153a6763745a3cf51f7107cde5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 330187863724493386
+    second: volle tile_0
+  - first:
+      213: 1137990987134863814
+    second: volle tile_1
+  - first:
+      213: -325368309732537968
+    second: volle tile_2
+  - first:
+      213: 2138872604496462366
+    second: volle tile_3
+  - first:
+      213: -7433550447183076699
+    second: volle tile_4
+  - first:
+      213: -7777034547899216251
+    second: volle tile_5
+  - first:
+      213: -1146477675195959363
+    second: volle tile_6
+  - first:
+      213: -2892057310915473323
+    second: volle tile_7
+  - first:
+      213: 7401848535961368456
+    second: volle tile_8
+  - first:
+      213: 1255137314416125636
+    second: volle tile_9
+  - first:
+      213: -685474929988513471
+    second: volle tile_10
+  - first:
+      213: -1995656615106394743
+    second: volle tile_11
+  - first:
+      213: 858990282108497958
+    second: volle tile_12
+  - first:
+      213: -6939872641896483142
+    second: volle tile_13
+  - first:
+      213: 7768467308298584302
+    second: volle tile_14
+  - first:
+      213: -1612534688912811754
+    second: volle tile_15
+  - first:
+      213: -6645333145489137637
+    second: volle tile_16
+  - first:
+      213: -25210303781137442
+    second: volle tile_17
+  - first:
+      213: 5587796409233936813
+    second: volle tile_18
+  - first:
+      213: -7425071132341968878
+    second: volle tile_19
+  - first:
+      213: -234018692815679990
+    second: volle tile_20
+  - first:
+      213: 6813544740083942084
+    second: volle tile_21
+  - first:
+      213: 9061050767688671887
+    second: volle tile_22
+  - first:
+      213: 1732852900242343372
+    second: volle tile_23
+  - first:
+      213: 3382099970828453300
+    second: volle tile_24
+  - first:
+      213: 5643161932737031977
+    second: volle tile_25
+  - first:
+      213: 751342232973114831
+    second: volle tile_26
+  - first:
+      213: 7953441306714189499
+    second: volle tile_27
+  - first:
+      213: -6378286873370079343
+    second: volle tile_28
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 392
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: volle tile_28
+      rect:
+        serializedVersion: 2
+        x: 1818
+        y: 447
+        width: 428
+        height: 413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19f4d3dd1e5cb77a0800000000000000
+      internalID: -6378286873370079343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

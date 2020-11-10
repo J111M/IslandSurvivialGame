@@ -1,0 +1,884 @@
+fileFormatVersion: 2
+guid: fa6ad022e7e7811459454a4ca0d60e4a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8116157130073370751
+    second: tiles goed met hoeken_0
+  - first:
+      213: -7382826576096310948
+    second: tiles goed met hoeken_1
+  - first:
+      213: 8493876370254608350
+    second: tiles goed met hoeken_2
+  - first:
+      213: 8436321260064301006
+    second: tiles goed met hoeken_3
+  - first:
+      213: 8444306709927213227
+    second: tiles goed met hoeken_4
+  - first:
+      213: -1421334364891020571
+    second: tiles goed met hoeken_5
+  - first:
+      213: 1040608076424819007
+    second: tiles goed met hoeken_6
+  - first:
+      213: 8138487628233368337
+    second: tiles goed met hoeken_7
+  - first:
+      213: 4636320139440355381
+    second: tiles goed met hoeken_8
+  - first:
+      213: 2040030192602500847
+    second: tiles goed met hoeken_9
+  - first:
+      213: -4969671057987967869
+    second: tiles goed met hoeken_10
+  - first:
+      213: -7665987143156295186
+    second: tiles goed met hoeken_11
+  - first:
+      213: 7868273161486975295
+    second: tiles goed met hoeken_12
+  - first:
+      213: -7915157843644249577
+    second: tiles goed met hoeken_13
+  - first:
+      213: -2545147395346767648
+    second: tiles goed met hoeken_14
+  - first:
+      213: -3874878409397095631
+    second: tiles goed met hoeken_15
+  - first:
+      213: 8376168522663009267
+    second: tiles goed met hoeken_16
+  - first:
+      213: -1044789446316416253
+    second: tiles goed met hoeken_17
+  - first:
+      213: -3106538268402193528
+    second: tiles goed met hoeken_18
+  - first:
+      213: 163851221530840726
+    second: tiles goed met hoeken_19
+  - first:
+      213: 863087072850152024
+    second: tiles goed met hoeken_20
+  - first:
+      213: 8100433461532157224
+    second: tiles goed met hoeken_21
+  - first:
+      213: -4742848286712731928
+    second: tiles goed met hoeken_22
+  - first:
+      213: -5449971358147610698
+    second: tiles goed met hoeken_23
+  - first:
+      213: 4868293494918327105
+    second: tiles goed met hoeken_24
+  - first:
+      213: 1501695473039768292
+    second: tiles goed met hoeken_25
+  - first:
+      213: 4793216920291369368
+    second: tiles goed met hoeken_26
+  - first:
+      213: -8047685030065691314
+    second: tiles goed met hoeken_27
+  - first:
+      213: -8685677713588588169
+    second: tiles goed met hoeken_0
+  - first:
+      213: 6169862238778895530
+    second: tiles goed met hoeken_1
+  - first:
+      213: -2405135894828979487
+    second: tiles goed met hoeken_2
+  - first:
+      213: -1806007563589328601
+    second: tiles goed met hoeken_3
+  - first:
+      213: 2642786765199165379
+    second: tiles goed met hoeken_4
+  - first:
+      213: 8406179901211334167
+    second: tiles goed met hoeken_5
+  - first:
+      213: 4687491097818663450
+    second: tiles goed met hoeken_6
+  - first:
+      213: 3360572566025140867
+    second: tiles goed met hoeken_7
+  - first:
+      213: 2495608335400226332
+    second: tiles goed met hoeken_8
+  - first:
+      213: 5454641816841799508
+    second: tiles goed met hoeken_9
+  - first:
+      213: -5762274001676647944
+    second: tiles goed met hoeken_10
+  - first:
+      213: -5538062132804986432
+    second: tiles goed met hoeken_11
+  - first:
+      213: -9148262293700337248
+    second: tiles goed met hoeken_12
+  - first:
+      213: -17890888152154540
+    second: tiles goed met hoeken_13
+  - first:
+      213: -356882326404256608
+    second: tiles goed met hoeken_14
+  - first:
+      213: -663901548884959767
+    second: tiles goed met hoeken_15
+  - first:
+      213: -3305258862005216238
+    second: tiles goed met hoeken_16
+  - first:
+      213: -7779905379568482367
+    second: tiles goed met hoeken_17
+  - first:
+      213: -619264572514958615
+    second: tiles goed met hoeken_18
+  - first:
+      213: -50116645516337503
+    second: tiles goed met hoeken_19
+  - first:
+      213: 5663778658671220181
+    second: tiles goed met hoeken_20
+  - first:
+      213: -968608523707956485
+    second: tiles goed met hoeken_21
+  - first:
+      213: 5566145292354775030
+    second: tiles goed met hoeken_22
+  - first:
+      213: -3876800630877957243
+    second: tiles goed met hoeken_23
+  - first:
+      213: -8899431640860535260
+    second: tiles goed met hoeken_24
+  - first:
+      213: 468101575836632335
+    second: tiles goed met hoeken_25
+  - first:
+      213: 8916142318077836058
+    second: tiles goed met hoeken_26
+  - first:
+      213: -3220910300720238110
+    second: tiles goed met hoeken_27
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 392
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tiles goed met hoeken_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 2304
+        width: 397
+        height: 397
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77176006326467780800000000000000
+      internalID: -8685677713588588169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles goed met hoeken_1
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 2304
+        width: 413
+        height: 396
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aac238f4401cf9550800000000000000
+      internalID: 6169862238778895530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles goed met hoeken_2
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 2287
+        width: 396
+        height: 413
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ea6d2885ad3f9ed0800000000000000
+      internalID: -2405135894828979487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles goed met hoeken_3
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 2287
+        width: 413
+        height: 396
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 721e69680b5cfe6e0800000000000000
+      internalID: -1806007563589328601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles goed met hoeken_4
+      rect:
+        serializedVersion: 2
+        x: 1841
+        y: 2271
+        width: 395
+        height: 411
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c7ccc49f801da420800000000000000
+      internalID: 2642786765199165379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles goed met hoeken_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1839
+        width: 413
+        height: 416
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 716dab11510c8a470800000000000000
+      internalID: 8406179901211334167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles goed met hoeken_6
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 1839
+        width: 416
+        height: 416
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1a894d61505d0140800000000000000
+      internalID: 4687491097818663450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles goed met hoeken_7
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 1839
+        width: 416
+        height: 416
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38af9d791f623ae20800000000000000
+      internalID: 3360572566025140867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles goed met hoeken_8
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 1839
+        width: 416
+        height: 416
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1ec80a0f8e22a220800000000000000
+      internalID: 2495608335400226332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles goed met hoeken_9
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 1823
+        width: 395
+        height: 430
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 457c8dd15d7c2bb40800000000000000
+      internalID: 5454641816841799508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles goed met hoeken_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1357
+        width: 413
+        height: 432
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f14897435a4800b0800000000000000
+      internalID: -5762274001676647944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles goed met hoeken_11
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 1357
+        width: 416
+        height: 432
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c9dd1605d9d423b0800000000000000
+      internalID: -5538062132804986432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles goed met hoeken_12
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 1357
+        width: 434
+        height: 415
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a124e7d9e7da0180800000000000000
+      internalID: -9148262293700337248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles goed met hoeken_13
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 1357
+        width: 434
+        height: 415
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45e79fef45070cff0800000000000000
+      internalID: -17890888152154540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles goed met hoeken_14
+      rect:
+        serializedVersion: 2
+        x: 1841
+        y: 1358
+        width: 429
+        height: 394
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ac2f0c3a691c0bf0800000000000000
+      internalID: -356882326404256608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles goed met hoeken_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 413
+        height: 413
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ed51ec0f0959c6f0800000000000000
+      internalID: -663901548884959767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles goed met hoeken_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 444
+        width: 413
+        height: 415
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21c9777b39c5122d0800000000000000
+      internalID: -3305258862005216238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles goed met hoeken_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 892
+        width: 413
+        height: 414
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c78ba8e649380490800000000000000
+      internalID: -7779905379568482367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles goed met hoeken_18
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 0
+        width: 414
+        height: 413
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e2034df62ee767f0800000000000000
+      internalID: -619264572514958615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles goed met hoeken_19
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 444
+        width: 414
+        height: 415
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ae1aaa2d23fd4ff0800000000000000
+      internalID: -50116645516337503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles goed met hoeken_20
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 892
+        width: 414
+        height: 414
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d5598c9ea8c99e40800000000000000
+      internalID: 5663778658671220181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles goed met hoeken_21
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 0
+        width: 412
+        height: 413
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf2c8f9fdafce82f0800000000000000
+      internalID: -968608523707956485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles goed met hoeken_22
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 445
+        width: 414
+        height: 414
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f7e40717abee3d40800000000000000
+      internalID: 5566145292354775030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles goed met hoeken_23
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 909
+        width: 414
+        height: 416
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 583528bcd56d23ac0800000000000000
+      internalID: -3876800630877957243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles goed met hoeken_24
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 0
+        width: 414
+        height: 413
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 426d2a7e21ede7480800000000000000
+      internalID: -8899431640860535260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles goed met hoeken_25
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 447
+        width: 411
+        height: 411
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f050b8237e70f7600800000000000000
+      internalID: 468101575836632335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles goed met hoeken_26
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 909
+        width: 414
+        height: 416
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1b7bd3d2308cbb70800000000000000
+      internalID: 8916142318077836058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles goed met hoeken_27
+      rect:
+        serializedVersion: 2
+        x: 1841
+        y: 912
+        width: 412
+        height: 411
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e17c2885270d43d0800000000000000
+      internalID: -3220910300720238110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
