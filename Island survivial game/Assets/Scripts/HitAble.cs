@@ -5,8 +5,8 @@ using UnityEngine;
 public class HitAble : ToolHit
 {
     [SerializeField] GameObject pickUpDrop;
-    [SerializeField] int dropCount = 4;
     [SerializeField] float spread = 1f;
+    [SerializeField] int dropCount = 4;
 
     public float object_Health;
 

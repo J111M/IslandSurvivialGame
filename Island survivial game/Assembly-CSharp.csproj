@@ -68,6 +68,8 @@
     <Compile Include="Assets\IslandMaker\Scripts\Noise.cs" />
     <Compile Include="Assets\IslandMaker\Tilemap\Tile\Rule Override Tile\Scripts\RuleOverrideTile.cs" />
     <Compile Include="Assets\IslandMaker\Tilemap\Tile\Rule Tile\Scripts\RuleTile.cs" />
+    <Compile Include="Assets\ItemDragAndDrop.cs" />
+    <Compile Include="Assets\ItemSpawnerManager.cs" />
     <Compile Include="Assets\Scripts\CameraController.cs" />
     <Compile Include="Assets\Scripts\GameManager.cs" />
     <Compile Include="Assets\Scripts\HitAble.cs" />

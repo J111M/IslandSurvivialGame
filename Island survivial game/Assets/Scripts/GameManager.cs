@@ -20,6 +20,8 @@ public class GameManager : MonoBehaviour
     }
 
     public GameObject player;
+    public ItemDragAndDrop dragAndDrop;
+
 
     void Update()
     {
