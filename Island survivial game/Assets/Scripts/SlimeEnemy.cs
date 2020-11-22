@@ -5,8 +5,8 @@ using UnityEngine;
 public class SlimeEnemy : MonoBehaviour
 {
     //public Animator animator;
-
-    public Transform target;
+    private Transform player;
+    private Vector2 target;
     [SerializeField]
     private float speed;
     [SerializeField]
@@ -19,7 +19,7 @@ public class SlimeEnemy : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        target = FindObjectOfType<PlayerMovement>().transform;
+        player = FindObjectOfType<PlayerMovement>().transform;
 
         jumpStopBool = false;
     }
@@ -27,28 +27,38 @@ public class SlimeEnemy : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        jumpTime += Time.deltaTime;
-
-        if(jumpTime >= 1)
+        float distance1 = Vector3.Distance(transform.position, player.position);
+        if (distance1 < range)
         {
-            attackPlayer();
+            jumpTime += Time.deltaTime;
 
-            jumpStopBool = true;
+            if (jumpTime >= 1)
+            {
+                attackPlayer();
+
+                jumpStopBool = true;
+            }
+
+            if (jumpStopBool == true)
+            {
+                jumpStopTime += Time.deltaTime;
+            }
+
+            if (jumpStopBool == false)
+            {
+                target = new Vector2(player.position.x, player.position.y);
+            }
+
+            if(jumpStopTime >= 2f)
+            {
+                jumpTime = 0;
+                jumpStopTime = 0;
+                jumpStopBool = false;
+            }
+            return;
         }
 
-        if (jumpStopBool == true)
-        {
-            jumpStopTime += Time.deltaTime;
-        }
-
-        if(jumpStopTime >= 2f)
-        {
-            jumpTime = 0;
-            jumpStopTime = 0;
-            jumpStopBool = false;
-        }
-
-
+        
     }
 
     public void randomWalk()
@@ -58,7 +68,7 @@ public class SlimeEnemy : MonoBehaviour
 
     public void attackPlayer()
     {
-        transform.position = Vector3.MoveTowards(transform.position, target.transform.position, speed * Time.deltaTime);
+        transform.position = Vector3.MoveTowards(transform.position, target, speed * Time.deltaTime);
     }
 
     public void stopFollowing()
